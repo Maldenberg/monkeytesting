@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "I know the basics Git"
+=======
+"Я знаю основы Git"
+>>>>>>> 5919e943b3e16822a7bcb0d054bc114d3aff69c3
